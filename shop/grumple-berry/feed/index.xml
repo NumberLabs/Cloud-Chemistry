@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Grumple Berry	</title>
+	<atom:link href="/shop/grumple-berry/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/grumple-berry/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Tue, 11 Oct 2016 07:28:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: Jesus		</title>
+		<link>/shop/grumple-berry/#comment-6497</link>
+
+		<dc:creator><![CDATA[Jesus]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2016 07:28:47 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/grumple-berry#comment-6497</guid>
+
+					<description><![CDATA[This flavor is Grrrrrrumple Great!!!]]></description>
+			<content:encoded><![CDATA[<p>This flavor is Grrrrrrumple Great!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ryan		</title>
+		<link>/shop/grumple-berry/#comment-2139</link>
+
+		<dc:creator><![CDATA[Ryan]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2016 17:08:50 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/grumple-berry#comment-2139</guid>
+
+					<description><![CDATA[Great berry flavor.]]></description>
+			<content:encoded><![CDATA[<p>Great berry flavor.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

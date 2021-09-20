@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Breath of the Dragon (Dragon&#8217;s Vapor)	</title>
+	<atom:link href="/shop/dragons-breath/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/dragons-breath/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Mon, 28 Sep 2020 15:08:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: Ian		</title>
+		<link>/shop/dragons-breath/#comment-5113</link>
+
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2016 17:08:55 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/dragons-breath#comment-5113</guid>
+
+					<description><![CDATA[My favorite flavor!]]></description>
+			<content:encoded><![CDATA[<p>My favorite flavor!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Conner		</title>
+		<link>/shop/dragons-breath/#comment-349</link>
+
+		<dc:creator><![CDATA[Conner]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2015 03:21:25 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/dragons-breath#comment-349</guid>
+
+					<description><![CDATA[This flavor is amazing in a Kanger Subtank!]]></description>
+			<content:encoded><![CDATA[<p>This flavor is amazing in a Kanger Subtank!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Brian Messenger		</title>
+		<link>/shop/dragons-breath/#comment-274</link>
+
+		<dc:creator><![CDATA[Brian Messenger]]></dc:creator>
+		<pubDate>Fri, 29 May 2015 22:37:14 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/dragons-breath#comment-274</guid>
+
+					<description><![CDATA[This is an awesome vape!]]></description>
+			<content:encoded><![CDATA[<p>This is an awesome vape!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Vanilla Cupcake	</title>
+	<atom:link href="/shop/vanilla-cupcake/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/vanilla-cupcake/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Sun, 01 May 2016 19:57:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: Frank ziggy		</title>
+		<link>/shop/vanilla-cupcake/#comment-3746</link>
+
+		<dc:creator><![CDATA[Frank ziggy]]></dc:creator>
+		<pubDate>Sun, 01 May 2016 19:57:07 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/vanilla-cupcake#comment-3746</guid>
+
+					<description><![CDATA[Everyone who knows me knows I like cupcakes. I really enjoy the vanilla variety as well... tastes like the real thing. Everytime.]]></description>
+			<content:encoded><![CDATA[<p>Everyone who knows me knows I like cupcakes. I really enjoy the vanilla variety as well&#8230; tastes like the real thing. Everytime.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: city4me		</title>
+		<link>/shop/vanilla-cupcake/#comment-2952</link>
+
+		<dc:creator><![CDATA[city4me]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 00:08:16 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/vanilla-cupcake#comment-2952</guid>
+
+					<description><![CDATA[Awesome flavor. Will buy again]]></description>
+			<content:encoded><![CDATA[<p>Awesome flavor. Will buy again</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

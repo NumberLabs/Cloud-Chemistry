@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Arctic Mist	</title>
+	<atom:link href="/shop/arctic-mist/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/arctic-mist/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Tue, 28 Apr 2020 14:21:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: FUEGO		</title>
+		<link>/shop/arctic-mist/#comment-6478</link>
+
+		<dc:creator><![CDATA[FUEGO]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2016 17:16:19 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/arctic-mist#comment-6478</guid>
+
+					<description><![CDATA[This Is by far the Best Smooth Menthol Flavor I ever Had!!! YOU GO CLOUD CHEMISTS!]]></description>
+			<content:encoded><![CDATA[<p>This Is by far the Best Smooth Menthol Flavor I ever Had!!! YOU GO CLOUD CHEMISTS!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: michael c		</title>
+		<link>/shop/arctic-mist/#comment-4509</link>
+
+		<dc:creator><![CDATA[michael c]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2016 08:13:27 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/arctic-mist#comment-4509</guid>
+
+					<description><![CDATA[Arctic Mist is PERFECT!!  MY everyday vape!! By far the best hands down!!]]></description>
+			<content:encoded><![CDATA[<p>Arctic Mist is PERFECT!!  MY everyday vape!! By far the best hands down!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

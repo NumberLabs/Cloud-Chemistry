@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sunnyvale	</title>
+	<atom:link href="/shop/sunnyvale/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/sunnyvale/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Tue, 05 Dec 2017 20:38:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: vmjustis		</title>
+		<link>/shop/sunnyvale/#comment-15052</link>
+
+		<dc:creator><![CDATA[vmjustis]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2017 20:38:18 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/sunnyvale#comment-15052</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/shop/sunnyvale/#comment-2746&quot;&gt;jack.oxton&lt;/a&gt;.
+
+This was my first flavor and I haven&#039;t changed flavors since, really love the taste!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/shop/sunnyvale/#comment-2746">jack.oxton</a>.</p>
+<p>This was my first flavor and I haven&#8217;t changed flavors since, really love the taste!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: jack.oxton		</title>
+		<link>/shop/sunnyvale/#comment-2746</link>
+
+		<dc:creator><![CDATA[jack.oxton]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 22:20:45 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/sunnyvale#comment-2746</guid>
+
+					<description><![CDATA[Really, really good. Smooth, well rounded flavors really compliment each other very well. The only thing that would have made it 5 stars for me is a bit less lemon flavor (slightly overpowers the kiwi and dragon fruit imo), but that&#039;s just my opinion!]]></description>
+			<content:encoded><![CDATA[<p>Really, really good. Smooth, well rounded flavors really compliment each other very well. The only thing that would have made it 5 stars for me is a bit less lemon flavor (slightly overpowers the kiwi and dragon fruit imo), but that&#8217;s just my opinion!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/squirrly-seo/view/assets/css/sitemap.xsl"?>
+<!-- generated-on="2021-09-19T00:29:27+00:00" -->
+<!-- generator="Squirrly SEO Sitemap" -->
+<!-- generator-url="https://wordpress.org/plugins/squirrly-seo/" -->
+<!-- generator-version="11.1.01" -->
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/category/advice/</loc>
+		<lastmod>2015-09-30T21:53:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>/category/buying-guides/</loc>
+		<lastmod>2015-09-30T21:53:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>/category/discounts/</loc>
+		<lastmod>2017-09-13T02:45:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>/category/home-slides/</loc>
+		<lastmod>2021-09-16T12:39:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>/category/news/</loc>
+		<lastmod>2019-10-31T02:40:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>/category/nicotine-research/</loc>
+		<lastmod>2019-03-19T14:40:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+</urlset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sugar Moose	</title>
+	<atom:link href="/shop/sugar-mousse/feed/" rel="self" type="application/rss+xml" />
+	<link>/shop/sugar-mousse/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Sun, 19 Apr 2020 18:45:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>
+		By: city4me		</title>
+		<link>/shop/sugar-mousse/#comment-2950</link>
+
+		<dc:creator><![CDATA[city4me]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 00:06:16 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/sugar-moose#comment-2950</guid>
+
+					<description><![CDATA[I always buy this. Love it]]></description>
+			<content:encoded><![CDATA[<p>I always buy this. Love it</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Chris		</title>
+		<link>/shop/sugar-mousse/#comment-2225</link>
+
+		<dc:creator><![CDATA[Chris]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2016 14:43:27 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/sugar-moose#comment-2225</guid>
+
+					<description><![CDATA[This is hands down my favorite juice. If you&#039;re into sweet dessert flavors this one is highly recommended.]]></description>
+			<content:encoded><![CDATA[<p>This is hands down my favorite juice. If you&#8217;re into sweet dessert flavors this one is highly recommended.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Donna DeVane ( The Vaping Granny)		</title>
+		<link>/shop/sugar-mousse/#comment-1207</link>
+
+		<dc:creator><![CDATA[Donna DeVane ( The Vaping Granny)]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2015 14:28:04 +0000</pubDate>
+		<guid isPermaLink="false">http://dev-cloudchemistry.pantheonsite.io/shop/sugar-moose#comment-1207</guid>
+
+					<description><![CDATA[Perfect sweetness, awesome clouds.  I&#039;m so loving this delightful ejuice.]]></description>
+			<content:encoded><![CDATA[<p>Perfect sweetness, awesome clouds.  I&#8217;m so loving this delightful ejuice.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

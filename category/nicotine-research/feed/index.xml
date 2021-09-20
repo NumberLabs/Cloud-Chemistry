@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nicotine Research &#8211; Cloud Chemistry</title>
+	<atom:link href="/category/nicotine-research/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Tue, 19 Mar 2019 14:40:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">132433436</site>	<item>
+		<title>Know Nicotine</title>
+		<link>/know-nicotine/</link>
+					<comments>/know-nicotine/#respond</comments>
+		
+		<dc:creator><![CDATA[James]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2019 14:40:03 +0000</pubDate>
+				<category><![CDATA[Nicotine Research]]></category>
+		<guid isPermaLink="false">/?p=21405</guid>
+
+					<description><![CDATA[The team behind the groundbreaking and influential documentary A Billion Lives is hard at work producing a sequel that they&#8217;re tagging with the catchy title Know Nicotine. Aaron Biebert, of &#8230;<p class="read-more"> <a class="ast-button" href="/know-nicotine/"> <span class="screen-reader-text">Know Nicotine</span> Read More »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The team behind the groundbreaking and influential documentary <a href="https://abillionlives.com/">A Billion Lives</a> is hard at work producing a sequel that they&#8217;re tagging with the catchy title <a href="https://knownicotine.com/">Know Nicotine</a>.</p>
+
+
+
+<p>Aaron Biebert, of <em>A Billion Lives</em> fame, is also heading up this new project as its director. He is traveling around pitching the film as <a href="https://www.facebook.com/tmj4/videos/vb.79146833756/2241062876111080/">cutting edge research in the area of nicotine</a>. He says the film aims to vindicate the unjustly stigmatized chemical by shedding light on its many, and largely unknown, positive attributes. According to Biebert, the film will present scientific research which solidly demonstrates the health improvements many adults could see by using nicotine.</p>
+
+
+
+<p>We&#8217;re kicking off our new <em>Nicotine</em> blog post series by plugging this documentary. Stay tuned for more nicotine related posts to follow.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/know-nicotine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21405</post-id>	</item>
+	</channel>
+</rss>

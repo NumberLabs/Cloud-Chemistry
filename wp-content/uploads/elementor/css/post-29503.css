@@ -1,0 +1,21 @@
+.elementor-29503 .elementor-element.elementor-element-f42efd3 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:10px 10px 10px 10px;}.elementor-29503 .elementor-element.elementor-element-f42efd3 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}/* Start custom CSS for html, class: .elementor-element-aac7c3e */.elementor-29503 .elementor-element.elementor-element-aac7c3e p {
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    font-weight: bold;
+}
+
+.elementor-29503 .elementor-element.elementor-element-aac7c3e a {
+    background: rgba(250,250,250,.9);
+    padding: 5px;
+    border-radius: 4px;
+    color: #3f3f3f;
+    margin-left: 5px;
+}
+
+.elementor-29503 .elementor-element.elementor-element-aac7c3e a:hover {
+    background: #cccccc;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-f42efd3 */.elementor-29503 .elementor-element.elementor-element-f42efd3 {
+    background: red;
+}/* End custom CSS */

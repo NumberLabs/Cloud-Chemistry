@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Discounts &#8211; Cloud Chemistry</title>
+	<atom:link href="/category/discounts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Premium eLiquid Custom Handmade to Order™</description>
+	<lastBuildDate>Thu, 31 Jan 2019 18:37:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">132433436</site>	<item>
+		<title>Introducing the CloudFam Referral Program</title>
+		<link>/introducing-the-cloudfam-referral-program/</link>
+					<comments>/introducing-the-cloudfam-referral-program/#respond</comments>
+		
+		<dc:creator><![CDATA[James]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2017 02:45:17 +0000</pubDate>
+				<category><![CDATA[Discounts]]></category>
+		<guid isPermaLink="false">/?p=18081</guid>
+
+					<description><![CDATA[We are pleased to offer to our customers this full-featured referral program, the latest addition to our expanding rewards roster.]]></description>
+										<content:encoded><![CDATA[<p class="blog-post-intro">Our commitment to continually improving customer experience and happiness is the foundation upon which we are built.</p>
+<p>Sadly, we have found this to be an increasingly less common attribute among companies in the modern marketplace. What&#8217;s even more unsettling, this ever lowering bar is viewed as the norm by the frustrated and disenfranchised modern consumer.</p>
+<p>It is with this inspiration in mind that we are pleased to introduce our new full-featured <em>CloudFam Referral Program</em>.</p>
+<h2>Give 10, Get 10&#8217;s</h2>
+<ul>
+<li>For every person who you refer to us, we offer them $10 in store credit on your behalf.</li>
+<li>For each and every person you refer to us who becomes a paying customer, we give you $10 in store credit.</li>
+</ul>
+<h2>Rules and restrictions</h2>
+<p>There are only two requirements:</p>
+<ol>
+<li>First, you must <a href="/my-account/">have an account</a>, and be logged in.</li>
+<li>Second, you must be a paying customer.</li>
+</ol>
+<h2>Get started</h2>
+<p>To get started referring, visit the <a href="/refer-a-friend/">Refer a Friend page</a>.</p>
+<p>You can keep track of all of your referrals by clicking on the <a href="/my-account/referrals/">Referrals tab</a> in the My Account section.</p>
+<h2>CloudFam Rewards</h2>
+<p>This <em>Referral Program</em> is only the latest addition to the ever-expanding discount roster we are proud to offer to our loyal customers.</p>
+<ul>
+<li>10% cash back on every dollar you spend is deposited into your account as CloudCoins, redeemable on future purchases.</li>
+<li>15% discount on every purchase for all active/retired: military, police, fire-fighters, first-responders, and EMS. If you&#8217;re one of these heroes, contact <strong>heroes at cloudchemistry [dot] co</strong> to get your discount code. You will be asked to produce ID.</li>
+<li>15% discount on every purchase for college students. If you&#8217;re a college student, contact <strong>students at cloudchemistry [dot] co</strong> to get your discount code. You will be asked to produce ID.</li>
+<li>Free shipping on orders over $50.</li>
+<li>50 CloudCoins ($5) deposited to your account as soon as you sign up. (For new accounts only)</li>
+</ul>
+<p>This is just the beginning. There is more coming soon.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/introducing-the-cloudfam-referral-program/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18081</post-id>	</item>
+	</channel>
+</rss>
